@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes Application
 
 A complete full-stack notes app: compose, search, edit and delete notes through a polished React UI, backed by an Express REST API and a file-based SQLite database. Everything runs locally with free, open-source tooling — no paid services or UI kits.
@@ -208,3 +209,7 @@ _Add screenshots to `docs/screenshots/` and reference them here once captured:_
 - E2E tests (Playwright) and CI pipeline; Docker images for one-command runs.
 - Offline support with a service worker and background sync.
 - Keyboard shortcut palette and drag-and-drop board view.
+=======
+# notes-app
+Full-stack Notes app with React, Express and SQLite. Create, edit, search and delete notes with a responsive card/list UI, dark mode and toast notifications.
+>>>>>>> 0f78b9a3d2ecc2d1a1c7d466d130b278c4a353b2
